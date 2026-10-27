@@ -1,0 +1,5 @@
+{
+  "name": "prompt-enhancer-mod",
+  "owner": { "name": "Rémi Droux" },
+  "plugins": [{ "name": "prompt-enhancer", "source": "./" }]
+}

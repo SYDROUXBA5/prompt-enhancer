@@ -1,0 +1,7 @@
+{
+  "name": "prompt-enhancer",
+  "version": "0.1.0",
+  "description": "Rewrites a vague prompt into a specific one in the prompt box, for review before sending",
+  "author": { "name": "Rémi Droux" },
+  "types": "./types/index.d.ts"
+}
